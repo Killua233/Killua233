@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Killua233 
-- 👀 I’m curious and interested in the world around me
+- 👀 I’m curious and interested in the world
 - 🌱 I’m currently learning Python fundamentals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
